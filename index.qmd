@@ -42,6 +42,14 @@ format:
   </div>
 
   <div class="g-col-6 g-col-md-3 p-2">
+    <a href="https://www.nancyheiss.com/" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
+       style="height: 120px; background-color: #25A186; color: white; border-radius: 15px;">
+      <i class="fa-solid fa-pen-nib" style="font-size: 2rem;"></i>
+      <span class="mt-2 fw-bold">Mom</span>
+    </a>
+  </div>
+
+  <div class="g-col-6 g-col-md-3 p-2">
     <a href="https://www.rachelheiss.me/about.html" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
        style="height: 120px; background-color: #212529; color: white; border-radius: 15px;">
       <i class="fa-solid fa-cookie-bite" style="font-size: 2rem;"></i>
