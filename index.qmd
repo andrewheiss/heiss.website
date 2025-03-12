@@ -1,0 +1,74 @@
+---
+title: "The Heiss Hub"
+format: 
+  html:
+    page-layout: full
+---
+
+<div style="display:none;">{{< fa thumbs-up >}}</div>
+
+```{=html}
+<div class="grid justify-content-center">
+  <div class="g-col-6 g-col-md-3 p-2">
+    <a href="https://books.heiss.website/2025/" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
+       style="height: 120px; background-color: #1D6996; color: white; border-radius: 15px;">
+      <i class="fa-solid fa-book-open-reader" style="font-size: 2rem;"></i>
+      <span class="mt-2 fw-bold">Books</span>
+    </a>
+  </div>
+
+  <div class="g-col-6 g-col-md-3 p-2">
+    <a href="https://scriptures.heiss.website/2025/" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
+       style="height: 120px; background-color: #F4BD61; color: white; border-radius: 15px;">
+      <i class="fa-solid fa-book-bible" style="font-size: 2rem;"></i>
+      <span class="mt-2 fw-bold">Scriptures</span>
+    </a>
+  </div>
+
+  <div class="g-col-6 g-col-md-3 p-2">
+    <a href="https://www.heissatopia.com/" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
+       style="height: 120px; background-color: #76BD00; color: white; border-radius: 15px;">
+      <i class="fa-solid fa-people-roof" style="font-size: 2rem;"></i>
+      <span class="mt-2 fw-bold">Heissatopia</span>
+    </a>
+  </div>
+
+  <div class="g-col-6 g-col-md-3 p-2">
+    <a href="https://www.andrewheiss.com/" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
+       style="height: 120px; background-color: #CF4446; color: white; border-radius: 15px;">
+      <i class="fa-solid fa-chart-column" style="font-size: 2rem;"></i>
+      <span class="mt-2 fw-bold">Dad</span>
+    </a>
+  </div>
+
+  <div class="g-col-6 g-col-md-3 p-2">
+    <a href="https://www.rachelheiss.me/about.html" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
+       style="height: 120px; background-color: #212529; color: white; border-radius: 15px;">
+      <i class="fa-solid fa-cookie-bite" style="font-size: 2rem;"></i>
+      <span class="mt-2 fw-bold">Rachel</span>
+    </a>
+  </div>
+
+  <div class="g-col-6 g-col-md-3 p-2">
+    <a href="https://www.miriamheiss.com/" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
+       style="height: 120px; background-color: #F3969A; color: white; border-radius: 15px;">
+      <i class="fa-solid fa-music" style="font-size: 2rem;"></i>
+      <span class="mt-2 fw-bold">Miriam</span>
+    </a>
+  </div>
+
+  <div class="g-col-6 g-col-md-3 p-2">
+    <a href="https://www.youtube.com/@MiriamHeiss" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
+       style="height: 120px; background-color: #115F84; color: white; border-radius: 15px;">
+      <i class="fa-brands fa-youtube" style="font-size: 2rem;"></i>
+      <span class="mt-2 fw-bold">Miriam</span>
+    </a>
+  </div>
+<!-- 
+  <div class="g-col-6 g-col-md-3 p-2">
+    <div class="d-flex flex-column align-items-center p-4" 
+         style="height: 120px; background-color: #f0f0f0; border-radius: 15px; pointer-events: none;">
+    </div>
+  </div> -->
+</div>
+```

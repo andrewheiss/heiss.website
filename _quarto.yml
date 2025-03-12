@@ -1,0 +1,21 @@
+project:
+  type: website
+  resources: 
+    - "img/"
+
+website:
+  title: "The Heiss Hub"
+  navbar: false
+
+  favicon: img/favicon.png
+
+  open-graph:
+    image: "/img/banner.png"
+    locale: en_US
+    description: "Heiss family links, all in one place!"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
