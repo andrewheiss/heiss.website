@@ -10,7 +10,7 @@ format:
 ```{=html}
 <div class="grid justify-content-center">
   <div class="g-col-6 g-col-md-3 p-2">
-    <a href="https://books.heiss.website/2025/" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
+    <a href="https://books.heiss.website/2026/" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
        style="height: 120px; background-color: #1D6996; color: white; border-radius: 15px;">
       <i class="fa-solid fa-book-open-reader" style="font-size: 2rem;"></i>
       <span class="mt-2 fw-bold">Books</span>
@@ -18,7 +18,7 @@ format:
   </div>
 
   <div class="g-col-6 g-col-md-3 p-2">
-    <a href="https://scriptures.heiss.website/2025/" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
+    <a href="https://scriptures.heiss.website/2026/" class="d-flex flex-column align-items-center p-4 text-decoration-none" 
        style="height: 120px; background-color: #F4BD61; color: white; border-radius: 15px;">
       <i class="fa-solid fa-book-bible" style="font-size: 2rem;"></i>
       <span class="mt-2 fw-bold">Scriptures</span>
